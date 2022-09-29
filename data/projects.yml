@@ -1,7 +1,7 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: My Game Shelf
+  description: Search through a catalogue of over 100 games. Record which games you want to play and which games you have already completed by adding them to your shelf. See who is currently live streaming your favorite game on Twitch.
+  image: projects/myGameShelf.png
+  url: https://www.mygameshelf.online/
 
 - name: Movie Watchlist
   description: Decent description of the app
