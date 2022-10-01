@@ -1,62 +1,16 @@
 // Specific CSS for your home-page
-.card-product {
-    overflow: hidden;
-    height: 400px;
-    background: white;
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
-    display: flex;
-    align-items: center;
-  }
-  
-  .card-product img {
-    height: 400px;
-    width: 400px;
-    object-fit: cover;
-  }
-  
-  .card-product h2 {
-    display: block;
-    font-size: 1.5em;
-    margin-top: 0.83em;
-    margin-bottom: 0.83em;
-    margin-left: 0;
-    margin-right: 0;
-    font-weight: bold;
-    background-color: bisque;
-  }
-
-  .card-product p {
-    font-size: 18px;
-    line-height: 1.4;
-    opacity: .7;
-    margin-bottom: 0;
+.card-stack {
+    color: #4A4A4A;
+    border: 1px solid #a19696;
+    padding: 8px 24px;
+    border-radius: 50px;
     margin-top: 8px;
-  }
-  
-  .card-product .card-product-infos {
-    padding: 16px;
-  }
+}
 
-  .card-stack img {
-    height: 400px;
-    width: fit-content;
-    padding: 16px;
-  }
-
-  .card-stack-small {
-    overflow: hidden;
-    height: 160px;
-    display: flex;
-    align-items: center;
-  }
-
-  .card-stack-small img {
-    height: 160px;
-    width: 160px;
-    object-fit: cover;
-    margin: 16px
-  }
-
+.projects {
+    padding: 12px;
+    background-color: bisque;
+}
 
 
   

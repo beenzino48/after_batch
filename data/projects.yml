@@ -3,17 +3,7 @@
   image: projects/myGameShelf.png
   url: https://www.mygameshelf.online/
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+- name: Abandonya
+  description: Airbnb clone which lets users rent properties to stay at or rent out their own property for others. Includes a catalogue of different properties adn a interactive map which shows the locations of each property.
+  image: /images/abandonya.PNG
+  url: http://abandonya.herokuapp.com
