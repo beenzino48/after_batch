@@ -1,4 +1,40 @@
 // Specific CSS for your home-page
+.banner-text-small{
+  font-size: 20px;
+  color: black;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.top-right {
+  margin: 0;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 32px;
+  font-weight: bold;
+}
+.text-center {
+font-family: 'Open Sans'Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.fa-github{
+  color: #4D4AE8;
+}
+
+.fa-linkedin{
+  color: #4D4AE8;
+}
+
+.card-body-projects {
+  display: block;
+  padding: 1rem 1rem;
+}
+
+.page-container {
+  background-color: #FAFAFA;
+}
+
 .card-stack {
     color: #4A4A4A;
     border: 1px solid #a19696;
@@ -26,7 +62,7 @@
 }
 
 .footer {
-  background: #F4F4F4;
+  background: #FAFAFA;
   display: flex;
   align-items: center;
   justify-content: space-between;
