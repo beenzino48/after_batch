@@ -7,3 +7,13 @@
   description: Airbnb clone which lets users rent properties to stay at or rent out their own property for others. Includes a catalogue of different properties adn a interactive map which shows the locations of each property.
   image: /images/abandonya.PNG
   url: http://abandonya.herokuapp.com
+
+- name: React Travel Site
+  description: Users can select from several different travel services. Clean design built completely on React as a solo personal project.
+  image: /images/react.png
+  url: https://hamishliu-react-travel-site.netlify.app/
+
+- name: Mamoru
+  description: Sustainable web application that connects Japanese students with sustainable restaurants and stores. Currently work on this website with a team of around 10 people. Built on React.
+  image: /images/mamoru.png
+  url: https://app.mamoru.earth/
